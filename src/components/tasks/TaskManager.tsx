@@ -1,4 +1,4 @@
-import { useReducer } from "react";
+import React, { useReducer } from "react";
 import tasksReducer from "./tasksReducer";
 import { AddTask } from "./tasksComponents/AddTask";
 import TaskList from "./tasksComponents/TaskList";

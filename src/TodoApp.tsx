@@ -1,3 +1,4 @@
+import React from "react";
 import { TaskApp } from "./components/tasks/TaskManager";
 import { Box } from "@mui/material";
 
